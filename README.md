@@ -1,27 +1,45 @@
-# predicting-machine-failure
-Machine learning model for predicting equipment failures using Python.
+# Predictive Maintenance Using Machine Learning
 
 #Overview
-This project uses machine learning to predict equipment failures using operational sensor data.
+Manufacturing companies experience unexpected equipment failures that cause downtime and production losses. This project develops a machine learning model to predict machine failures using sensor data.
 
 #Objective
-The goal is to identify machines at risk of failure before breakdowns occur, supporting predictive maintenance strategies.
+Identify machines at risk of failure before breakdowns occur and important failure indicators.
 
-#Tools used
+#  Dataset
+AI4I 2020 Predictive Maintenance Dataset.
+
+#Features
+- Air temperature
+- Process temperature
+- Rotational speed
+- Torque
+- Tool wear
+
+#Target
+- Machine failure
+
+#Tools
 Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
-#Process consist of
-Data cleaning -> Exploratory Data Analysis -> Feature selection -> Machine learning modeling -> Model evaluation.
+#Proces
+Data cleaning: 
+- Removes unnecessary columns
+- Checked missing values
+- Explores data relationships
 
-#Models Tested
-Logistic Regression
-Random Forest
+Machine Learning Models:
+- Logistics Regression
+- Random Forest
 
 #Results
-The best model is Random Forest
 Accuracy: 99%
 Precision: 100%
 Recall: 96.72%
+F1 Score: 98.33%
 
 #Engineering Impact
 Predictive maintenance can reduce downtime, improve equipment reliability, and support data-driven maintenance decisions.
+
+# Recommendations
+Implement predictive maintenance alerts based on sensor readings to reduce unexpected downtime.
