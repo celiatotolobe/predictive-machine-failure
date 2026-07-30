@@ -15,7 +15,6 @@ Data cleaning -> Exploratory Data Analysis -> Feature selection -> Machine learn
 
 #Models Tested
 Logistic Regression
-Decision Tree
 Random Forest
 
 #Results
