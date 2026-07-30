@@ -50,10 +50,3 @@ Predictive maintenance can reduce downtime, improve equipment reliability, and s
 
 Implement predictive maintenance alerts based on sensor readings to reduce unexpected downtime.
 
-requirements.txt
-Pandas
-NumPy
-Seaborn
-Scikit-learn
-Matplotlib
-Jupyter
