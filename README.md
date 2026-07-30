@@ -24,10 +24,6 @@ AI4I 2020 Predictive Maintenance Dataset.
 
 - Machine failure
 
-#Tools
-
-Python, Pandas, NumPy, Scikit-learn, Matplotlib
-
 #Process
 
 Data cleaning: 
