@@ -54,4 +54,6 @@ Implement predictive maintenance alerts based on sensor readings to reduce unexp
 
 A Random Forest classifier was successfully developed to predict machine failures using operational sensor data. The model achieved high accuracy, precision, recall, and F1 score, demonstrating strong potential for predictive maintenance applications.
 
-
+# Contact
+Celia Toto Lobe
+LinkedIn: www.linkedin.com/in/celia-totolobe
