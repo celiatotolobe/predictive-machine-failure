@@ -42,9 +42,6 @@ Precision: 100%
 Recall: 96.72%
 F1 Score: 98.33%
 
-#Images
-
-
 #Engineering Impact
 
 Predictive maintenance can reduce downtime, improve equipment reliability, and support data-driven maintenance decisions.
