@@ -1,8 +1,10 @@
-# Predictive Maintenance Using Machine Learning
+# Predictive Maintenance Using Random Forest
 
 #Overview
 
-Manufacturing companies experience unexpected equipment failures that cause downtime and production losses. This project develops a machine learning model to predict machine failures using sensor data.
+Manufacturing companies experience unexpected equipment failures that cause downtime and production losses.
+This project develops a Random Forest classification to predict machine failures using sensor data.
+A Random Forest classifier was selected because it is well suited for classification problems involving nonlinear relationships and can effectively handle multiple operational variables while reducing overfitting.
 
 #Objective
 
@@ -31,16 +33,17 @@ Data cleaning:
 - Checked missing values
 - Explores data relationships
 
-Machine Learning Models:
-- Logistics Regression
-- Random Forest
-
 #Results
+
+The Random Forest model achieved excellent classification performance.
 
 Accuracy: 99%
 Precision: 100%
 Recall: 96.72%
 F1 Score: 98.33%
+
+#Images
+
 
 #Engineering Impact
 
@@ -49,4 +52,9 @@ Predictive maintenance can reduce downtime, improve equipment reliability, and s
 # Recommendations
 
 Implement predictive maintenance alerts based on sensor readings to reduce unexpected downtime.
+
+# Conclusion
+
+A Random Forest classifier was successfully developed to predict machine failures using operational sensor data. The model achieved high accuracy, precision, recall, and F1 score, demonstrating strong potential for predictive maintenance applications.
+
 
